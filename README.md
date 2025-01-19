@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... full stack project and create my own website
 - 📫 How to reach me ... Instagram: @farahn2333 email: fahmin.rahman44@qmail.cuny.edu
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... My mbti type is an INTP
+
 
 <!---
 FRAHMAN117/FRAHMAN117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
