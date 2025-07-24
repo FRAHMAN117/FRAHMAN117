@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @FRAHMAN117
-- 👀 I’m interested in ... audio programming
-- 🌱 I’m currently learning ... leetcode
-- 💞️ I’m looking to collaborate on ... full stack project and create my own website
-- 📫 How to reach me ... Instagram: @farahn2333 email: fahmin.rahman44@qmail.cuny.edu
-- 😄 Pronouns: ... she/her
+
+- Contact Info:
+ Instagram: @farahn2333 email: fahmin.rahman44@qmail.cuny.edu
+
+- Pronouns: ... she/her
 
 
 <!---
