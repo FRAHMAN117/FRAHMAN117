@@ -53,7 +53,6 @@ Predicts country happiness index using ML, providing policy insights.
 * **LinkedIn:** [http://www.linkedin.com/in/fahmin-rahman-08312uuuu](http://www.linkedin.com/in/fahmin-rahman-08312uuuu)
 * **Email:** fahmin.rahman44@qmail.cuny.edu
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 ---
