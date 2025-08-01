@@ -4,6 +4,7 @@
 
 - Pronouns: ... she/her
 - [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117)](https://github.com/FRAHMAN117/github-readme-stats)
+- [![Fahmin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FRAHMAN117)](https://github.com/FRAHMAN117/github-readme-stats)
 
 
 <!---
