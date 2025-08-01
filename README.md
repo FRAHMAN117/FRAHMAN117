@@ -48,7 +48,7 @@ Predicts country happiness index using ML, providing policy insights.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=compact&theme=gruvbox_light)](https://github.com/FRAHMAN117)
 
 ### Trophies
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=FRAHMAN117)](https://github.com/FRAHMAN117)
 
 ---
 
