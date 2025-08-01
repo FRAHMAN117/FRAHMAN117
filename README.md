@@ -58,10 +58,6 @@ I'm a **Computer Science student** at Macaulay Honors College at Queens College,
 * **Email:** fahmin.rahman@macaulay.cuny.edu
 
 ---
-  
-- # Github Statistics
-- [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117&theme=gruvbox_light&rank_icon=github)](https://github.com/FRAHMIN117/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=compact&theme=gruvbox_light)](https://github.com/FRAHMAN117/github-readme-stats)
-
 
 
 
