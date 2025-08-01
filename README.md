@@ -1,65 +1,59 @@
-
 # Hi there, I'm Fahmin Rahman 👋
 
-I'm a **Computer Science student** at Macaulay Honors College at Queens College, passionate about leveraging **AI and machine learning** to create a positive impact, particularly in **sustainability and the arts**. I thrive on building meaningful technology and solving real-world challenges.
+I'm a **Computer Science student** passionate about leveraging **AI and machine learning** to make a positive impact, especially in **sustainability and the arts**. I'm all about building meaningful tech and solving real-world challenges responsibly.
 
 ---
 
-## 💻 My Tech Stack
+## 🚀 My Skillset
 
-| Languages      | Frameworks/Libraries  | Tools & Platforms |
-| :------------- | :-------------------- | :---------------- |
-| C++, Python    | NumPy, Pandas,        | Arduino IDE       |
-| HTML, CSS      | Scikit-learn,         | MySQL             |
-| JavaScript, Java | TensorFlow/Keras      | Git, GitHub       |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,mysql,tensorflow,arduino,git,github" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Featured Projects
 
 ### **Full-Stack Playlist Application**
-* Built a comprehensive application integrating robust backend with an intuitive frontend.
-* **Technologies:** JavaScript, MySQL, API Integration.
-* **Impact:** Enhanced user engagement through seamless playlist creation.
-* **[Repository Link](https://github.com/FRAHMAN117/FullStackProject2)** 
+A comprehensive app seamlessly integrating robust backend with an intuitive frontend for enhanced user engagement.
+* **Built with:** JavaScript, MySQL, APIs
+* **[Explore the code!](https://github.com/FRAHMAN117/FullStackProject2)**
 
 ### **"Eco-Friendly Musician" Website**
-* Developed a personal website demonstrating proficiency in front-end technologies.
-* **Technologies:** HTML, CSS, JavaScript.
-* **Impact:** Showcased responsive design principles for optimal user accessibility.
-* **[Repository Link](https://github.com/FRAHMAN117/AdvocacyProject)** 
+A personal website demonstrating front-end proficiency and responsive design for optimal accessibility.
+* **Built with:** HTML, CSS, JavaScript
+* **[Check it out!](https://github.com/FRAHMAN117/AdvocacyProject)**
 
-### **Appliance Sorter (Object-Oriented Programming in Java)**
-* Designed and implemented a user-friendly GUI for efficient appliance categorization.
-* **Technologies:** Java, TreeMaps, Linked Lists.
-* **Impact:** Improved user experience by an estimated 30% and optimized program time complexity by 25%.
-* **[Repository Link](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)** 
+### **Appliance Sorter (Java)**
+An object-oriented Java project featuring a user-friendly GUI for efficient appliance categorization.
+* **Built with:** Java, TreeMaps, Linked Lists
+* **[View on GitHub!](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)**
 
 ---
 
-## 🚀 What I'm Up To
+## 🌟 Experiences
 
-* **BreakThrough Tech AI Fellow (Cornell Tech):** Applying advanced ML/AI concepts, training models, and collaborating on end-to-end AI solutions.
-* **Velay Scholars Summer Undergraduate Research Fellow (CUNY ASRC):** Refined firmware for ESP32 microcontrollers, leading to a **20% cost reduction** and enhanced user experience. Presented research on ESP32 user-friendliness.
-* **Event Coordinator/Front-end Developer (CodeResolve):** Planned and executed 9-10 technical events per semester, fostering community engagement and consistently attracting over 100 students per session.
+* **BreakThrough Tech AI Fellow (Cornell Tech):** Applied advanced ML/AI, training models, and collaborating on end-to-end AI solutions.
+* **Velay Scholars Research Fellow (CUNY ASRC):** Optimized ESP32 firmware (20% cost reduction), enhanced UX, and presented research.
+* **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events for 100+ students, fostering community engagement.
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Activity
 
 [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117&theme=gruvbox_light&rank_icon=github)](https://github.com/FRAHMAN117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=compact&theme=gruvbox_light)](https://github.com/FRAHMAN117)
 
 ---
 
-## 📞 Let's Connect!
+## 🤝 Let's Connect!
 
-* **LinkedIn:** http://www.linkedin.com/in/fahmin-rahman-08312uuuu
-* **Email:** fahmin.rahman@macaulay.cuny.edu
+* **LinkedIn:** [http://www.linkedin.com/in/fahmin-rahman-08312uuuu]
+* **Email:** fahmin.rahman44@qmail.cuny.edu
 
 ---
-
-
 
 
 <!---
