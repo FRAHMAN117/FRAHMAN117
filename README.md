@@ -37,7 +37,7 @@ An object-oriented Java project featuring a user-friendly GUI for efficient appl
 
 * **BreakThrough Tech AI Fellow (Cornell Tech):** Applied advanced ML/AI, training models, and collaborating on end-to-end AI solutions.
 * **Velay Scholars Research Fellow (CUNY ASRC):** Optimized ESP32 firmware (20% cost reduction), enhanced UX, and presented research.
-* **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events for 100+ students, fostering community engagement.
+* **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events for CUNY students, fostering community engagement.
 
 ---
 
