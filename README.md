@@ -33,7 +33,7 @@ I'm a **Computer Science student** at Macaulay Honors College at Queens College,
 * Designed and implemented a user-friendly GUI for efficient appliance categorization.
 * **Technologies:** Java, TreeMaps, Linked Lists.
 * **Impact:** Improved user experience by an estimated 30% and optimized program time complexity by 25%.
-* **[Repository Link](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)** (Replace with actual project link)
+* **[Repository Link](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)** 
 
 ---
 
