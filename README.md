@@ -1,6 +1,6 @@
 # Hi there, I'm Fahmin Rahman 👋
 
-I'm a **Computer Science student** passionate about leveraging **AI and machine learning** to make a positive impact, especially in **sustainability and the arts**. I'm all about building meaningful tech and solving real-world challenges responsibly.
+A **Computer Science student** passionate about leveraging **AI and machine learning** for impact in **sustainability and the arts**. I love building meaningful tech and solving real-world challenges.
 
 ---
 
@@ -17,27 +17,27 @@ I'm a **Computer Science student** passionate about leveraging **AI and machine 
 ## ✨ Featured Projects
 
 ### **Full-Stack Playlist Application**
-A comprehensive app seamlessly integrating robust backend with an intuitive frontend for enhanced user engagement.
+Seamless backend/frontend for user engagement.
 * **Built with:** JavaScript, MySQL, APIs
-* **[Explore the code!](https://github.com/FRAHMAN117/FullStackProject2)**
+* **[Explore Code](https://github.com/FRAHMAN117/FullStackProject2)**
 
 ### **"Eco-Friendly Musician" Website**
-A personal website demonstrating front-end proficiency and responsive design for optimal accessibility.
+Front-end website demonstrating responsive design.
 * **Built with:** HTML, CSS, JavaScript
-* **[Check it out!](https://github.com/FRAHMAN117/AdvocacyProject)**
+* **[Check it out](https://github.com/FRAHMAN117/AdvocacyProject)**
 
 ### **Appliance Sorter (Java)**
-An object-oriented Java project featuring a user-friendly GUI for efficient appliance categorization.
+GUI-based OOD project, improved UX by 30%.
 * **Built with:** Java, TreeMaps, Linked Lists
-* **[View on GitHub!](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)**
+* **[View on GitHub](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)**
 
 ---
 
-## 🌟 Experiences
+## 🌟 What I'm Up To
 
-* **BreakThrough Tech AI Fellow (Cornell Tech):** Applied advanced ML/AI, training models, and collaborating on end-to-end AI solutions.
-* **Velay Scholars Research Fellow (CUNY ASRC):** Optimized ESP32 firmware (20% cost reduction), enhanced UX, and presented research.
-* **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events for CUNY students, fostering community engagement.
+* **BreakThrough Tech AI Fellow (Cornell Tech):** Applying advanced ML/AI concepts and building models.
+* **Velay Scholars Research Fellow (CUNY ASRC):** Optimized ESP32 firmware (20% cost reduction) and presented research.
+* **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events, fostering community engagement for CUNY students.
 
 ---
 
@@ -50,12 +50,10 @@ An object-oriented Java project featuring a user-friendly GUI for efficient appl
 
 ## 🤝 Let's Connect!
 
-* **LinkedIn:** [http://www.linkedin.com/in/fahmin-rahman-08312uuuu]
+* **LinkedIn:** [http://www.linkedin.com/in/fahmin-rahman-08312uuuu](http://www.linkedin.com/in/fahmin-rahman-08312uuuu)
 * **Email:** fahmin.rahman44@qmail.cuny.edu
 
 ---
-
-
 <!---
 FRAHMAN117/FRAHMAN117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
