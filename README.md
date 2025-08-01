@@ -3,6 +3,7 @@
  Instagram: @farahn2333 email: fahmin.rahman44@qmail.cuny.edu
 
 - Pronouns: ... she/her
+- [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117)](https://github.com/FRAHMAN117/github-readme-stats)
 
 
 <!---
