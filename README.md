@@ -21,13 +21,13 @@ I'm a **Computer Science student** at Macaulay Honors College at Queens College,
 * Built a comprehensive application integrating robust backend with an intuitive frontend.
 * **Technologies:** JavaScript, MySQL, API Integration.
 * **Impact:** Enhanced user engagement through seamless playlist creation.
-* **[Repository Link](https://github.com/FRAHMAN117/FullStackProject2)** (Replace with actual project link)
+* **[Repository Link](https://github.com/FRAHMAN117/FullStackProject2)** 
 
 ### **"Eco-Friendly Musician" Website**
 * Developed a personal website demonstrating proficiency in front-end technologies.
 * **Technologies:** HTML, CSS, JavaScript.
 * **Impact:** Showcased responsive design principles for optimal user accessibility.
-* **[Repository Link](https://github.com/FRAHMAN117/AdvocacyProject)** (Replace with actual project link)
+* **[Repository Link](https://github.com/FRAHMAN117/AdvocacyProject)** 
 
 ### **Appliance Sorter (Object-Oriented Programming in Java)**
 * Designed and implemented a user-friendly GUI for efficient appliance categorization.
@@ -54,8 +54,8 @@ I'm a **Computer Science student** at Macaulay Honors College at Queens College,
 
 ## 📞 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** fahmin.rahman44@qmail.cuny.edu
+* **LinkedIn:** http://www.linkedin.com/in/fahmin-rahman-08312uuuu
+* **Email:** fahmin.rahman@macaulay.cuny.edu
 
 ---
   
