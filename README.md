@@ -5,7 +5,7 @@
 - Pronouns: ... she/her
   
 - # Github Statistics
-- [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117&rank_icon=github&bg_color=4a5c4f80)](https://github.com/FRAHMIN117/github-readme-stats)(https://github.com/FRAHMAN117/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=pie)](https://github.com/FRAHMAN117/github-readme-stats&theme=transparent)
+- [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117&theme=transparent&rank_icon=percentile)](https://github.com/FRAHMAN117/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=compact)](https://github.com/FRAHMAN117/github-readme-stats)
 
 
 
