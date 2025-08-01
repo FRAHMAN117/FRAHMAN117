@@ -7,7 +7,7 @@
 - # Github Statistics
 - [![Fahmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRAHMAN117)](https://github.com/FRAHMAN117/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAHMAN117&layout=pie)](https://github.com/FRAHMAN117/github-readme-stats)
-- [![Fahmin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FRAHMAN117)](https://github.com/FRAHMAN117/github-readme-stats)
+- [![Fahmin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FRAHMAN117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
