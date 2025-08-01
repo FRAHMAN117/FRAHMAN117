@@ -1,6 +1,6 @@
 # Hi there, I'm Fahmin Rahman 👋
 
-A **Computer Science student** passionate about leveraging **AI and machine learning** for impact in **sustainability and the arts**. I love building meaningful tech and solving real-world challenges.
+A **Computer Science student** passionate about **AI and machine learning** for impact in **sustainability and the arts**. I love building meaningful tech and solving real-world challenges.
 
 ---
 
@@ -21,21 +21,21 @@ Seamless backend/frontend for user engagement.
 * **Built with:** JavaScript, MySQL, APIs
 * **[Explore Code](https://github.com/FRAHMAN117/FullStackProject2)**
 
-### **"Eco-Friendly Musician" Website**
-Front-end website demonstrating responsive design.
-* **Built with:** HTML, CSS, JavaScript
-* **[Check it out](https://github.com/FRAHMAN117/AdvocacyProject)**
+### **Novel Sensor Calibration Code**
+Programmed unified code supporting three distinct sensor types, streamlining calibration.
+* **Built with:** Arduino IDE, C++
+* **[View Project](https://github.com/FRAHMAN117/SCD30-4x-mergeCode)** 
 
-### **Appliance Sorter (Java)**
-GUI-based OOD project, improved UX by 30%.
-* **Built with:** Java, TreeMaps, Linked Lists
-* **[View on GitHub](https://github.com/FRAHMAN117/Appliance-Sorter/tree/main)**
+### **World Happiness Report Regression Model**
+Predicts country happiness index using ML, providing policy insights.
+* **Built with:** Python, Pandas, Scikit-learn (Machine Learning)
+* **[Explore Notebook](https://github.com/FRAHMAN117/Break-Through-Tech-Cornell-Portfolio)**
 
 ---
 
 ## 🌟 What I'm Up To
 
-* **BreakThrough Tech AI Fellow (Cornell Tech):** Applying advanced ML/AI concepts and building models.
+* **BreakThrough Tech AI Fellow (Cornell Tech):** Applied advanced ML/AI concepts and built models.
 * **Velay Scholars Research Fellow (CUNY ASRC):** Optimized ESP32 firmware (20% cost reduction) and presented research.
 * **Event Coordinator/Front-end Dev (CodeResolve):** Organized technical events, fostering community engagement for CUNY students.
 
@@ -53,6 +53,7 @@ GUI-based OOD project, improved UX by 30%.
 * **LinkedIn:** [http://www.linkedin.com/in/fahmin-rahman-08312uuuu](http://www.linkedin.com/in/fahmin-rahman-08312uuuu)
 * **Email:** fahmin.rahman44@qmail.cuny.edu
 
+---
 ---
 <!---
 FRAHMAN117/FRAHMAN117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
